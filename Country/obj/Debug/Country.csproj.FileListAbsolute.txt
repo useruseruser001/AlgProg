@@ -1,0 +1,16 @@
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\bin\Debug\Country.exe.config
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\bin\Debug\Country.exe
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\bin\Debug\Country.pdb
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\obj\Debug\Country.csproj.AssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\obj\Debug\MainWindow.g.cs
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\obj\Debug\App.g.cs
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\obj\Debug\Country_MarkupCompile.cache
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\obj\Debug\Country_MarkupCompile.lref
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\obj\Debug\MainWindow.baml
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\obj\Debug\Country.g.resources
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\obj\Debug\Country.Properties.Resources.resources
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\obj\Debug\Country.csproj.GenerateResource.cache
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\obj\Debug\Country.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\obj\Debug\Country.exe
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\obj\Debug\Country.pdb
+C:\Users\georg\OneDrive\Desktop\general\studyTime\задания\Country\Country\obj\Debug\Country.exe.config
